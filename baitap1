@@ -1,0 +1,6 @@
+<?php
+// Bài tập 1
+function tuyet_doi($n) {
+    return abs($n);
+}
+?>
